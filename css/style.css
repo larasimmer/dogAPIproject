@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    color: #fe938c;
+}
+
+.button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    color: #E49DB7;
+    font-size: 20px;
+    background-color: #80a1d4;
+    border: 0;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.image {
+    max-height: 80vh;
+}
