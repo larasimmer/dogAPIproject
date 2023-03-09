@@ -24,3 +24,8 @@ body {
 .image {
     max-height: 80vh;
 }
+
+#information-container > p {
+    font-size: 20px;
+    color: red;
+}
