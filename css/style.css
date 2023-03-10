@@ -22,10 +22,14 @@ body {
 }
 
 .image {
-    max-height: 80vh;
+    max-height: 70vh;
 }
 
 #information-container > p {
     font-size: 20px;
     color: red;
+}
+
+#information-container > div > p {
+    font-size: 18px;
 }
