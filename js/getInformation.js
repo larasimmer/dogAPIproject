@@ -29,6 +29,5 @@ async function showInformation() {
 }
 
 buttonRandom.addEventListener('click',function() {
-    image.innerHTML = '';
     showInformation();
 });
